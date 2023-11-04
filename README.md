@@ -16,8 +16,8 @@ There are very little dependencies so this should build out of the box on a linu
 ```
 
 ## Screenshots
-![](screenshot.png)
-![](screenshot2.png)
+![](screenshot.PNG)
+![](screenshot2.PNG)
 
 ## Features
 
