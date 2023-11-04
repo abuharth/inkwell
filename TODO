@@ -1,0 +1,24 @@
+ ___ _  _ _  _  _   _ ___ _   _         _____  ___        ___  ___        _   ___  ___ _____   _
+|_ _| \| | |/ /| | | | __| | | |       |_   _|/ _ \  ___ |   \/ _ \      | | |_ _|/ __|_   _| |_|
+|___|_|\_|_|\_\ \_^_/|___|___|___|       |_|  \___/      |___/\___/      |___|___||___/ |_|   |_|
+
+( ) Complete the tutorial
+
+---- Possible Addons ----
+
+( ) Add line numbers
+
+( ) Add column number in status bar (also make it look better)
+
+( ) Make the title screen show INKWELL in ascii font
+    when it is displayed
+
+( ) Integrate something like the ASCII typer to
+    work live in the editor
+
+( ) Integrate something like the table formatter to
+    work live within the text editor
+
+( ) Add auto indentation
+    - handle bulleted lines
+    - auto nest/un-nest when pressing TAB or ENTER on new bulleted line
