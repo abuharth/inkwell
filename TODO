@@ -6,18 +6,29 @@
 
 ---- Possible Addons ----
 
-( ) Add line numbers
+( ) Add line numbers (make them dim)
 
-( ) Add column number in status bar (also make it look better)
+( ) Add column number to status bar
 
 ( ) Make the title screen show INKWELL in ascii font
     when it is displayed
 
-( ) Integrate something like the ASCII typer to
-    work live in the editor
+( ) Integrate ASCII typer into the editor
+    - pressing (Ctrl-A) will prompt user (enter text to insert to ascii-art: )
 
-( ) Integrate something like the table formatter to
-    work live within the text editor
+( ) Integrate something like the table formatter to work live within the
+    text editor (will show in the render nut not change file contents)
+    - looks for this sort of pattern in the file:
+    
+    |<text>|<text>|<text>|
+    ---
+    |<text>|<text>|<text>|
+    |<text>|<text>|<text>|
+    
+    - formats the rows so that the bars line up to make a full table
+    - can put dividers wherever they want by inputting '---' between/above/below rows
+        - algorith can check if there is a row with at least 3 dashes, if true
+          then complete the row of dashes until it reaches the end of the row
 
 ( ) Add auto indentation
     - handle bulleted lines
