@@ -28,4 +28,4 @@ There are very little dependencies so this should build out of the box on a linu
 - file saving (Ctrl-S)
     - prompts user for file name if a name is not already given
 
-Planned additions are included in TODO
+Planned additions are included in **TODO**
