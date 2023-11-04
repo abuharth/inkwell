@@ -15,6 +15,10 @@ There are very little dependencies so this should build out of the box on a linu
     $ ./inkwell <filename>                          # opens the given file in inkwell
 ```
 
+## App
+![](screenshot.png)
+![](screenshot2.png)
+
 ## Features
 
 - opening and viewing text files
