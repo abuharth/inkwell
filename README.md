@@ -6,13 +6,13 @@ Based on a [great tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html
 
 ## Building the Project
 
-There are very little dependencies so this should build out of the box on a linux machine. Just clone the repository, and run the following commands inside of the directory.
+There are very little dependencies so this should build out of the box on a linux machine. Just clone the repository, and run the following commands inside of the directory:
 
 
 ```
-    $ make                                  # builds project executable
-    $ ./inkwell                             # opens inkwell with a blank file
-    $ ./inkwell <filename>                  # opens the given file in inkwell
+    $ make                                                      # builds project executable
+    $ ./inkwell                                                 # opens inkwell with a blank file
+    $ ./inkwell <filename>                                      # opens the given file in inkwell
 ```
 
 ## Features
