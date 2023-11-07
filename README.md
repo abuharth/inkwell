@@ -10,9 +10,9 @@ There are very little dependencies so this should build out of the box on a linu
 
 
 ```
-    $ make                                          # builds project executable
-    $ ./inkwell                                     # opens inkwell with a blank file
-    $ ./inkwell <filename>                          # opens the given file in inkwell
+    $ make                              # builds project executable
+    $ ./inkwell                         # opens inkwell with a blank file
+    $ ./inkwell <filename>              # opens the given file in inkwell
 ```
 
 ## Screenshots
