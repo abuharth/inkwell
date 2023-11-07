@@ -6,6 +6,8 @@
 
 ---- Possible Addons ----
 
+( ) Make syntax highlighting have control over the text color and highlight color
+
 ( ) Add line numbers (make them dim)
 
 ( ) Add column number to status bar
@@ -29,6 +31,7 @@
     - can put dividers wherever they want by inputting '---' between/above/below rows
         - algorith can check if there is a row with at least 3 dashes, if true
           then complete the row of dashes until it reaches the end of the row
+    - different rows can have different number of columns
 
 ( ) Add auto indentation
     - handle bulleted lines
