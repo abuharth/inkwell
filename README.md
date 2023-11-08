@@ -27,5 +27,6 @@ There are very little dependencies so this should build out of the box on a linu
 - searching in file (Ctrl-F)
 - file saving (Ctrl-S)
     - prompts user for file name if a name is not already given
+- language-specific syntax highlighting
 
 Planned additions are included in **TODO**
